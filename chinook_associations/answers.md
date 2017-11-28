@@ -7,14 +7,14 @@ Artist.find_by_name("Philip Glass Ensemble").albums
 # 3
 Playlist.find_by_name("Brazilian Music").tracks
 
-#4
+# 4
 Genre.find_by_name("Jazz").tracks
 
-#5
+# 5
 Track.find_by_name("My Time After Awhile").genre
 
-#6
+# 6
 Track.find_by_name("My Time After Awhile").media_type
 
-#7
+# 7
 Track.find_by_name("My Time After Awhile").album  
